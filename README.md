@@ -8,7 +8,7 @@
 ## 🌩️ About Me
 
 - 🛠️ Dev **Discord bots** & **web apps**, en solo
-- 🏯 Créateur de **[Guild Tag Roles](https://guildtagroles.xyz)** — bot public 790K+ users, 14 langues
+- 🏯 Créateur de **[Guild Tag Roles](https://guildtagroles.xyz)** — bot public 1M+ users
 - 💰 Créateur de **Monolith Ads Bot** — bot d'ads/économie full TypeScript
 - 🎮 Bidouille aussi des serveurs Minecraft & des bots Twitch
 - 🖤 Esthétique Akatsuki, code propre, zéro RCON si on peut éviter
