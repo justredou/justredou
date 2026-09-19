@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=400&color=DC143C&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%F0%9F%8C%A9+Bienvenue+sur+mon+profil%3B+D%C3%A9veloppeur+Discord+%26+Web)](https://github.com/ii)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ii&style=for-the-badge&color=DC143C&label=VISITORS)](https://github.com/justredou)
-[![GitHub followers](https://img.shields.io/github/followers/ii?style=for-the-badge&logo=github&color=DC143C)](https://github.com/ii?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=justredou&style=for-the-badge&color=DC143C&label=VISITORS)](https://github.com/justredou)
+[![GitHub followers](https://img.shields.io/github/followers/justredou?style=for-the-badge&logo=github&color=DC143C)](https://github.com/justredou?tab=followers)
 
 ---
 
