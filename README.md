@@ -52,7 +52,7 @@
 
 ## 📌 Projets Épinglés
 
-- 🏯 **Guild Tag Roles** — Bot Discord de rôles automatiques basés sur les guild tags, 790K+ users, 14 langues
+- 🏯 **Guild Tag Roles** — Bot Discord de rôles automatiques basés sur les guild tags, +1M users
 - 💰 **Monolith Ads Bot** — Bot pub/économie complet, MongoDB + Components V2
 - 🎵 **Akatsuki Music Bot** — Bot musique discord.js + Lavalink, Now Playing dynamique
 - 📺 **Twitch Moderation Bot** — Modération multi-chaînes, EventSub, anti-spam
