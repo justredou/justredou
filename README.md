@@ -11,7 +11,6 @@
 - 🏯 Créateur de **[Guild Tag Roles](https://guildtagroles.xyz)** — bot public 1M+ users
 - 💰 Créateur de **Monolith Ads Bot** — bot d'ads/économie full TypeScript
 - 🎮 Bidouille aussi des serveurs Minecraft & des bots Twitch
-- 🖤 Esthétique Akatsuki, code propre, zéro RCON si on peut éviter
 
 ```
 🌐 Full Stack TypeScript / Node.js
@@ -38,7 +37,7 @@
 
 ## 📊 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=justredou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF)](https://github.com/ii)
+[![](https://github-readme-stats.vercel.app/api?username=justredou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF)](https://github.com/justredou)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF)](https://github.com/justredou)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ii&theme=tokyonight&hide_border=true&stroke=DC143C&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&background=0D1117)](https://git.io/streak-stats)
@@ -63,6 +62,6 @@
 ## 📫 Me Contacter
 
 [![Discord](https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZUcr2CcuVC)
-[![GitHub](https://img.shields.io/badge/GitHub-ii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justredou)
+[![GitHub](https://img.shields.io/badge/GitHub-justredou-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justredou)
 
 **⭐ N'hésite pas à explorer mes repos et laisser une star si ça te sert !**
